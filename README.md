@@ -48,3 +48,18 @@ RUN
 go run ./cmd/web
 ```
 
+# makefile for mac and linux is different to windows
+
+# microservice authentication microservice
+
+#### Authentication service packages
+```
+go get github.com/go-chi/chi/v5
+go get github.com/go-chi/chi/v5/middleware
+go get github.com/go-chi/cors
+```
+
+
+
+
+
